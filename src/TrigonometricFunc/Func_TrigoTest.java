@@ -1,3 +1,5 @@
+// Author - Shruti, Siddharth
+
 package TrigonometricFunc;
 
 import static org.junit.jupiter.api.Assertions.*;
@@ -174,14 +176,4 @@ class Func_TrigoTest {
 	{
 	assertEquals(Math.pow(-2, -8), Func_Trigo.calculate_power(-2, -8));
 	}
-
 }
-
-
-
-
-
-
-
-
-
