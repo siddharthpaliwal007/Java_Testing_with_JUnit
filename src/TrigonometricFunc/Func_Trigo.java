@@ -1,6 +1,6 @@
+// Author - Shruti, Siddharth
+
 package TrigonometricFunc;
-
-
 
 public class Func_Trigo {
 
